@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
+1. Avirup
+2. Great
+3. Beautiful
+4. Blue
 5. Month
-6. Number
+6. 23
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
