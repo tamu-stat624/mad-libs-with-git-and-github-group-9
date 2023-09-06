@@ -1,18 +1,18 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. September
-6. Number
+1. Avirup
+2. Great
+3. Beautiful
+4. Blue
+5. Month
+6. 23
 7. Noun (Plural)
 8. Noun (Plural)
-9. stick
+9. Noun
 10. Room Name
-11. oil
-12. flummoxed
+11. Liquid
+12. Adjective
 13. Material
 14. Activity
-15. bemusedly
+15. Adverb
 16. Number
 17. Unit of Time
 18. Different Activity
