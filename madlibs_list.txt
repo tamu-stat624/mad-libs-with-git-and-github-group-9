@@ -2,20 +2,20 @@
 2. Adjective
 3. Adjective
 4. Color
-5. September
+5. Month
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
-9. stick
+9. Noun
 10. Room Name
-11. oil
-12. flummoxed
+11. Liquid
+12. Adjective
 13. Material
 14. Activity
-15. bemusedly
+15. Adverb
 16. Number
 17. Unit of Time
 18. Different Activity
 19. Adjective
-20. 60 year-old Cessna 172 Skyhawk
+20. Vehicle
 21. Your Name
