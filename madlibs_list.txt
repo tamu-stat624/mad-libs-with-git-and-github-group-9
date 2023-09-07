@@ -1,21 +1,23 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+
+1. Avirup
+2. Great
+3. Beautiful
+4. Blue
+5. September
+6. 23
 7. carrots
 8. knives
-9. Noun
+9. Stick
 10. bedroom
-11. Liquid
-12. Adjective
+11. Bromine
+12. effusive
 13. aluminum
 14. cycling
-15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+15. calamitously
+16. 7
+17. Seconds
+18. Trekking
+19. Diligent
+20. 62 year-old Cessna 172 Skyhawk
+21. Ramana
+
