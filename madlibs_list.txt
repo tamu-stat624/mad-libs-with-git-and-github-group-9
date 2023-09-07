@@ -13,9 +13,9 @@
 13. Material
 14. Activity
 15. calamitously
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
+16. 7
+17. Seconds
+18. Trekking
+19. Diligent
 20. 62 year-old Cessna 172 Skyhawk
-21. Your Name
+21. Ramana
