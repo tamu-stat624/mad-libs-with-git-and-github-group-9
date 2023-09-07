@@ -4,14 +4,14 @@
 4. Color
 5. Month
 6. Number
-7. Noun (Plural)
-8. Noun (Plural)
+7. carrots
+8. knives
 9. Noun
-10. Room Name
+10. bedroom
 11. Liquid
 12. Adjective
-13. Material
-14. Activity
+13. aluminum
+14. cycling
 15. Adverb
 16. Number
 17. Unit of Time
