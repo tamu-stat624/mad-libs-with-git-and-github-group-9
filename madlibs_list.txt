@@ -2,17 +2,17 @@
 2. Great
 3. Beautiful
 4. Blue
-5. Month
+5. September
 6. 23
 7. Noun (Plural)
 8. Noun (Plural)
-9. Noun
+9. Stick
 10. Room Name
-11. Liquid
-12. Adjective
+11. Bromine
+12. effusive
 13. Material
 14. Activity
-15. Adverb
+15. calamitously
 16. Number
 17. Unit of Time
 18. Different Activity
